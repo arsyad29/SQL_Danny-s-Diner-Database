@@ -7,20 +7,20 @@ He plans on using these insights to help him decide whether he should expand the
 Danny has provided you with a sample of his overall customer data due to privacy issues - but he hopes that these examples are enough for you to write fully functioning SQL queries to help him answer his questions!
 
 Danny has shared with you 3 key datasets for this case study:
-1.sales
-2.menu
-3.members
+<br>1. sales</br>
+<br>2. menu</br>
+<br>3. members</br>
 
 <p align='center'><h1>Case Study Questionsm</h1></p>
 Each of the following case study questions can be answered using a single SQL statement:
 
-What is the total amount each customer spent at the restaurant?
-How many days has each customer visited the restaurant?
-What was the first item from the menu purchased by each customer?
-What is the most purchased item on the menu and how many times was it purchased by all customers?
-Which item was the most popular for each customer?
-Which item was purchased first by the customer after they became a member?
-Which item was purchased just before the customer became a member?
-What is the total items and amount spent for each member before they became a member?
-If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
-In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
+<br>1. What is the total amount each customer spent at the restaurant?</br>
+<br>2. How many days has each customer visited the restaurant?</br>
+<br>3. What was the first item from the menu purchased by each customer?</br>
+<br>4. What is the most purchased item on the menu and how many times was it purchased by all customers?</br>
+<br>5. Which item was the most popular for each customer?</br>
+<br>6. Which item was purchased first by the customer after they became a member?</br>
+<br>7. Which item was purchased just before the customer became a member?</br>
+<br>8. What is the total items and amount spent for each member before they became a member?</br>
+<br>9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?</br>
+<br>10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
