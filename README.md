@@ -11,7 +11,7 @@ Danny has shared with you 3 key datasets for this case study:
 <br>2. menu</br>
 <br>3. members</br>
 
-<p align='center'><h1>Case Study Questionsm</h1></p>
+<p align='center'><h1>Case Study Questions</h1></p>
 Each of the following case study questions can be answered using a single SQL statement:
 
 <br>1. What is the total amount each customer spent at the restaurant?</br>
